@@ -37,7 +37,7 @@ window.CONFIG = {
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
-  mapa: "google.com/maps/place/Sitio+-+Recanto+da+Mata/data=!4m2!3m1!1s0x0:0xd92e4103dcff9946?sa=X&ved=1t:2428&ictx=111",
+  mapa: "https://maps.app.goo.gl/17SYc6y2cfx94TL69",
 
   // ----- QUAIS TELAS APARECEM --------------------------------------------
   // video:     true  -> toca o vídeo (assets/video.mp4) depois da abertura.
